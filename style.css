@@ -53,6 +53,7 @@ main {
     justify-content: space-between;
     padding: 30px;
     letter-spacing: .7px;
+    height: 550px;
 }
 
 .banner-left h1 {
@@ -90,3 +91,16 @@ main {
 .arrow {
     margin-left: 8px;
 }
+
+/* Company Name area */
+
+.company-area {
+
+}
+
+.companys {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
